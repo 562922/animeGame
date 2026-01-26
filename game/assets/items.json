@@ -1,0 +1,31 @@
+[
+  {
+    "itemID": 1,
+    "itemName": "Common Earring Item 1",
+    "Type": "Accessory",
+    "Subtype": "Earring",
+    "Rarity": "Common",
+    "Stats": {
+      "HP": 100,
+      "MP": 100,
+      "STA": 100,
+      "STR": 10,
+      "DEX": 10,
+      "AGI": 10,
+      "VIT": 10,
+      "INT": 10,
+      "MIND": 10,
+      "LUK": 10,
+      "ATKPOW": 10,
+      "DEF": 10,
+      "CRT": 10,
+      "EVA": 10
+    },
+    "requirements": {
+      "level": 1,
+      "swordSkills": {
+        "SkillName": "Level"
+      }
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "modName": "Cooldown Reduction",
+        "modType": "Combat Modifier",
+        "description": "Reduces Sword Skill cooldown time.",
+        "applicableSkills": "Weapon Skills, Combat Extra Skills",
+        "unlockCondition": "Skill proficiency milestones (every 50 levels)",
+        "stackable": true,
+        "notes": "Explicitly referenced in SAO lore"
+    },
+    {
+        "modName": "Extended Reach",
+        "modType": "Combat Modifier",
+        "description": "Increases effective attack range of melee weapons.",
+        "applicableSkills": "One-Handed Sword, Two-Handed Sword, Spear",
+        "unlockCondition": "High weapon skill proficiency",
+        "stackable": true,
+        "notes": "Inferred from combat scenes"
+    },
+    {
+        "modName": "Accuracy Boost",
+        "modType": "Combat Modifier",
+        "description": "Improves hit accuracy and reduces miss chance.",
+        "applicableSkills": "All Weapon Skills",
+        "unlockCondition": "Weapon skill leveling",
+        "stackable": true,
+        "notes": "Implied by weapon mastery progression"
+    },
+    {
+        "modName": "Critical Damage Boost",
+        "modType": "Combat Modifier",
+        "description": "Increases damage dealt on critical hits.",
+        "applicableSkills": "Critical Strike, Weapon Skills",
+        "unlockCondition": "Critical Strike proficiency",
+        "stackable": true,
+        "notes": "Common RPG-style modifier"
+    },
+    {
+        "modName": "Defense Penetration",
+        "modType": "Combat Modifier",
+        "description": "Ignores a percentage of enemy defense.",
+        "applicableSkills": "Weapon Skills",
+        "unlockCondition": "Advanced combat proficiency",
+        "stackable": false,
+        "notes": "Inferred from high-level PvE encounters"
+    },
+    {
+        "modName": "Stamina Cost Reduction",
+        "modType": "Resource Modifier",
+        "description": "Reduces stamina consumption for skills.",
+        "applicableSkills": "Sprint, Roll/Dodge, Sword Skills",
+        "unlockCondition": "Skill usage",
+        "stackable": true,
+        "notes": "Explicitly mentioned in skill mod examples"
+    },
+    {
+        "modName": "Tracking",
+        "modType": "Detection Modifier",
+        "description": "Improves detection of enemies, traps, and items.",
+        "applicableSkills": "Searching, Tracking",
+        "unlockCondition": "Searching skill mods",
+        "stackable": true,
+        "notes": "Canon mod example"
+    },
+    {
+        "modName": "Detection Radius Increase",
+        "modType": "Detection Modifier",
+        "description": "Expands detection radius on the minimap.",
+        "applicableSkills": "Tracking, Perception",
+        "unlockCondition": "Tracking proficiency",
+        "stackable": true,
+        "notes": "Implied system behavior"
+    },
+    {
+        "modName": "Crafting Success Rate Boost",
+        "modType": "Crafting Modifier",
+        "description": "Increases chance of successful crafting.",
+        "applicableSkills": "Blacksmithing, Alchemy, Cooking",
+        "unlockCondition": "Life skill leveling",
+        "stackable": true,
+        "notes": "Standard SAO life-skill behavior"
+    },
+    {
+        "modName": "Quality Enhancement",
+        "modType": "Crafting Modifier",
+        "description": "Improves quality tier of crafted items.",
+        "applicableSkills": "Blacksmithing, Cooking",
+        "unlockCondition": "High proficiency",
+        "stackable": false,
+        "notes": "Implied by rare item crafting"
+    },
+    {
+        "modName": "Durability Preservation",
+        "modType": "Equipment Modifier",
+        "description": "Reduces durability loss of equipment.",
+        "applicableSkills": "Weapon Skills, Blacksmithing",
+        "unlockCondition": "Advanced weapon mastery",
+        "stackable": true,
+        "notes": "Inferred from long dungeon runs"
+    },
+    {
+        "modName": "Movement Speed Boost",
+        "modType": "Movement Modifier",
+        "description": "Increases base movement speed.",
+        "applicableSkills": "Sprint, Movement Skills",
+        "unlockCondition": "Movement skill leveling",
+        "stackable": true,
+        "notes": "Implied from agility builds"
+    },
+    {
+        "modName": "Evasion Boost",
+        "modType": "Movement Modifier",
+        "description": "Improves dodge success rate.",
+        "applicableSkills": "Roll/Dodge",
+        "unlockCondition": "Dodge proficiency",
+        "stackable": true,
+        "notes": "Inferred from combat survivability"
+    },
+    {
+        "modName": "HP Regeneration",
+        "modType": "Survival Modifier",
+        "description": "Gradually restores HP over time.",
+        "applicableSkills": "Health Boost, Survival Skills",
+        "unlockCondition": "High HP skill proficiency",
+        "stackable": false,
+        "notes": "Rare but implied passive effect"
+    },
+    {
+        "modName": "SP Regeneration",
+        "modType": "Survival Modifier",
+        "description": "Gradually restores stamina/SP over time.",
+        "applicableSkills": "Stamina Boost",
+        "unlockCondition": "Stamina skill leveling",
+        "stackable": false,
+        "notes": "Implied by endurance builds"
+    }
+]

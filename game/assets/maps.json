@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Floor 1",
+        "mapID": 1,
+        "description": "The first floor of the floating castle of Aincrad.",
+        "dimensions": {
+            "width": 1000,
+            "height": 1000,
+            "depth": 500
+        }
+    }
+]

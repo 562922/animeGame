@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Enemy 1",
+        "type": "Hostile",
+        "stats": {
+            "HP": 100,
+            "MP": 100,
+            "STA": 100,
+            "STR": 10,
+            "DEX": 10,
+            "AGI": 10,
+            "VIT": 10,
+            "INT": 10,
+            "MIND": 10,
+            "LUK": 10,
+            "ATKPOW": 10,
+            "DEF": 10,
+            "CRT": 10,
+            "EVA": 10,
+            "LVL": 1,
+            "EXP": 0
+        },
+        "inventory": {
+            "equipment": {
+                "weapon": null,
+                "armor": null,
+                "shield": null,
+                "accessories": []
+            },
+            "items": {}
+        },
+        "skills": [],
+        "quests": [],
+        "loot": {
+            "gold": {
+                "min": 5,
+                "max": 15
+            },
+            "items": [
+                {
+                    "itemID": 1,
+                    "name": "Goblin Ear",
+                    "dropRate": 0.5
+                },
+                {
+                    "itemID": 2,
+                    "name": "Rusty Dagger",
+                    "dropRate": 0.2
+                }
+            ]
+        }
+    }
+]

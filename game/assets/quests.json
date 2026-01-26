@@ -1,0 +1,66 @@
+[
+    {
+        "questID": 1,
+        "name": "Find the Lost Staff",
+        "description": "Retrieve the ancient staff lost in the Dark Forest.",
+        "objectives": [
+            "Enter the Dark Forest",
+            "Locate the ancient staff",
+            "Return to the village elder"
+        ],
+        "rewards": {
+            "experience": 500,
+            "items": [
+                "Ancient Staff",
+                "100 Gold Coins"
+            ]
+        },
+        "status": "Not Started",
+        "assignedTo": null,
+        "availableTo": [
+            "HeroPlayer"
+        ],
+        "relatedNPCs": [
+            "Gandalf"
+        ],
+        "questFlags": {
+            "isMainQuest": true,
+            "isRepeatable": false
+        },
+        "questCheckpoints": [
+            {
+                "checkpointID": 1,
+                "description": "Talk to Gandalf in the village",
+                "isCompleted": false,
+                "location": {
+                    "mapID": 1,
+                    "X": 150,
+                    "Y": 75,
+                    "Z": 0
+                }
+            },
+            {
+                "checkpointID": 2,
+                "description": "Find the ancient staff in the Dark Forest",
+                "isCompleted": false,
+                "location": {
+                    "mapID": 2,
+                    "X": 500,
+                    "Y": 600,
+                    "Z": 0
+                }
+            },
+            {
+                "checkpointID": 3,
+                "description": "Return to the village elder with the staff",
+                "isCompleted": false,
+                "location": {
+                    "mapID": 1,
+                    "X": 100,
+                    "Y": 50,
+                    "Z": 0
+                }
+            }
+        ]
+    }
+]

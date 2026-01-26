@@ -1,0 +1,12 @@
+[
+    {
+        "npcID": 1,
+        "name": "Gandalf",
+        "location": {
+            "mapID": 1,
+            "X": 150,
+            "Y": 75,
+            "Z": 0
+        }
+    }
+]
