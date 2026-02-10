@@ -9,8 +9,9 @@
         "passiveActive": "Passive",
         "weaponRestriction": "One-handed swords",
         "modsAvailable": true,
-        "compositeEffects": "Can combine with Dual Blades for Sword Skill",
-        "notes": "Basic Kirito starting skill"
+        "compositeEffects": {
+            "Dual Blades": true
+        }
     },
     {
         "skillName": "Two-Handed Sword",
@@ -22,8 +23,9 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Two-handed swords",
         "modsAvailable": true,
-        "compositeEffects": "Can combine with Sword Mastery",
-        "notes": "Cannot be used with shield"
+        "compositeEffects": {
+            "Sword Mastery" : true
+        }
     },
     {
         "skillName": "Dual Blades",
@@ -35,8 +37,9 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Dual swords only",
         "modsAvailable": true,
-        "compositeEffects": "Can compose with One-Handed Sword",
-        "notes": "Kirito’s signature skill"
+        "compositeEffects": {
+            "One-handed Sword Skill": true
+        }
     },
     {
         "skillName": "Spear Mastery",
@@ -48,8 +51,9 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Spears",
         "modsAvailable": true,
-        "compositeEffects": "Can combine with Charge Attack",
-        "notes": "Rarely used in Aincrad"
+        "compositeEffects": {
+            "Charge Attack": true
+        }
     },
     {
         "skillName": "Bow Mastery",
@@ -61,8 +65,7 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Bows only",
         "modsAvailable": true,
-        "compositeEffects": "None",
-        "notes": "Requires arrows"
+        "compositeEffects": null
     },
     {
         "skillName": "Shield Defense",
@@ -74,8 +77,7 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Shields",
         "modsAvailable": true,
-        "compositeEffects": "Can compose with Sword Skills",
-        "notes": "Reduces stamina cost for blocking"
+        "compositeEffects": true
     },
     {
         "skillName": "Critical Strike",
@@ -87,8 +89,7 @@
         "passiveActive": "Passive",
         "weaponRestriction": "Melee attacks",
         "modsAvailable": true,
-        "compositeEffects": "None",
-        "notes": "Key for high DPS builds"
+        "compositeEffects": null
     },
     {
         "skillName": "Power Strike",
@@ -100,8 +101,9 @@
         "passiveActive": "Active",
         "weaponRestriction": "Melee weapons",
         "modsAvailable": true,
-        "compositeEffects": "Can compose with Dash Attack",
-        "notes": "Cooldown applies"
+        "compositeEffects": {
+            "Dash Attack": true
+        }
     },
     {
         "skillName": "Dash Attack",
@@ -113,8 +115,9 @@
         "passiveActive": "Active",
         "weaponRestriction": "Melee weapons",
         "modsAvailable": true,
-        "compositeEffects": "Can compose with Power Strike",
-        "notes": "Timing-based"
+        "compositeEffects": {
+            "Power Strike": true
+        }
     },
     {
         "skillName": "Parry",

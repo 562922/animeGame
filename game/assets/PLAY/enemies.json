@@ -1,0 +1,67 @@
+[
+    {
+        "enemyID": 0,
+        "enemyName": "Frenzy Boar",
+        "enemyType": ["Beast"],
+        "stats": { "HP": 30, "STR": 6, "DEF": 2 },
+        "deathDrops": { "items": ["Meat"] },
+        "position": { "mapID": 1, "spawnZone": "Farmland", "coords": { "X": 700, "Y": 300, "Z": 0 } }
+    },
+    {
+        "enemyID": 1,
+        "enemyName": "Little Nepent",
+        "enemyType": ["Plant"],
+        "stats": { "HP": 20, "STR": 4, "DEF": 1 },
+        "deathDrops": { "items": ["Nepent Bulb"] },
+        "position": { "mapID": 1, "spawnZone": "Forest Edge", "coords": { "X": 820, "Y": 260, "Z": 0 } }
+    },
+    {
+        "enemyID": 2,
+        "enemyName": "Large Nepent",
+        "enemyType": ["Plant"],
+        "stats": { "HP": 60, "STR": 10, "DEF": 4 },
+        "deathDrops": { "items": ["Large Nepent Bulb"] },
+        "position": { "mapID": 1, "spawnZone": "Deep Forest", "coords": { "X": 860, "Y": 300, "Z": 0 } }
+    },
+    {
+        "enemyID": 3,
+        "enemyName": "Ruin Kobold Trooper",
+        "enemyType": ["Humanoid", "Kobold"],
+        "stats": { "HP": 45, "STR": 9, "DEF": 3 },
+        "deathDrops": { "items": ["Rusty Dagger"] },
+        "position": { "mapID": 1, "spawnZone": "Cave Entrance", "coords": { "X": 920, "Y": 320, "Z": 0 } }
+    },
+    {
+        "enemyID": 4,
+        "enemyName": "Ruin Kobold Sentinel",
+        "enemyType": ["Humanoid", "Kobold"],
+        "stats": { "HP": 80, "STR": 14, "DEF": 6 },
+        "deathDrops": { "items": ["Sentinel Shield"] },
+        "position": { "mapID": 1, "spawnZone": "Cave Depths", "coords": { "X": 960, "Y": 340, "Z": 0 } }
+    },
+    {
+        "enemyID": 5,
+        "enemyName": "Scavenger Toad",
+        "enemyType": ["Beast"],
+        "stats": { "HP": 25, "STR": 5, "DEF": 1 },
+        "deathDrops": { "items": ["Toad Skin"] },
+        "position": { "mapID": 1, "spawnZone": "Swamp", "coords": { "X": 760, "Y": 420, "Z": 0 } }
+    },
+    {
+        "enemyID": 6,
+        "enemyName": "Dire Wolf",
+        "enemyType": ["Beast"],
+        "stats": { "HP": 70, "STR": 12, "DEF": 5 },
+        "deathDrops": { "items": ["Wolf Pelt"] },
+        "position": { "mapID": 1, "spawnZone": "Hills", "coords": { "X": 740, "Y": 240, "Z": 0 } }
+    },
+    {
+        "enemyID": 7,
+        "enemyName": "Illfang the Kobold Lord",
+        "enemyAlias": "Illfang",
+        "enemyType": ["Boss", "Kobold"],
+        "stats": { "HP": 500, "STR": 30, "DEF": 15 },
+        "deathDrops": { "items": ["Illfang's Tooth", "Kobold Banner"] },
+        "position": { "mapID": 1, "spawnZone": "Labyrinth Entrance", "coords": { "X": 1200, "Y": 600, "Z": 0 } }
+    }
+]

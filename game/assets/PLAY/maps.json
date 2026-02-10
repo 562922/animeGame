@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Town of Beginnings",
+        "mapID": 1,
+        "description": "The main settlement on the 1st Floor. The beginning point for all players and the largest town in Aincrad.",
+        "dimensions": { "width": 1200, "height": 1200, "depth": 500 },
+        "features": ["market", "inns", "fountains", "main plaza"]
+    },
+    {
+        "name": "Tolbana Town",
+        "mapID": 2,
+        "description": "The second largest town on the 1st Floor, lined with large windmills and close to the 1st Floor Labyrinth.",
+        "dimensions": { "width": 800, "height": 800, "depth": 300 },
+        "features": ["windmills", "fountains", "inns"]
+    },
+    {
+        "name": "Horunka Village",
+        "mapID": 3,
+        "description": "A small village northwest of the Town of Beginnings, where players can begin specific life-skill quests.",
+        "dimensions": { "width": 400, "height": 400, "depth": 200 }
+    },
+    {
+        "name": "Medai Village",
+        "mapID": 4,
+        "description": "A rustic village on the 1st Floor with friendly locals and basic services.",
+        "dimensions": { "width": 350, "height": 350, "depth": 150 }
+    },
+    {
+        "name": "Floor 1 (Overworld)",
+        "mapID": 10,
+        "description": "Overworld view of the first floor linking towns and the labyrinth.",
+        "dimensions": { "width": 10000, "height": 10000, "depth": 2000 }
+    }
+]

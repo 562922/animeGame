@@ -1,0 +1,53 @@
+[
+  {
+    "questID": 0,
+    "questName": "Clearing the Roads",
+    "questDescription": "Merchants have reported increased monster activity along the main trade road. Help make the route safe again.",
+    "objectives": ["Travel to the main trade road", "Defeat 5 hostile creatures", "Report back to the guard captain"],
+    "rewards": { "EXP": 300, "items": ["Health Potion", "Iron Longsword"] },
+    "status": "Not Started",
+    "assignedTo": null,
+    "availableTo": ["Adventurer", "Mercenary"],
+    "relatedNPCs": ["Akihiko Kayaba"],
+    "questFlags": { "isMainQuest": false, "isRepeatable": true },
+    "questCheckpoints": [
+      { "checkpointID": 1, "description": "Reach the main trade road", "isCompleted": false, "location": { "mapID": 1, "X": 150, "Y": 75, "Z": 0 } },
+      { "checkpointID": 2, "description": "Eliminate the hostile creatures", "isCompleted": false, "location": { "mapID": 1, "X": 500, "Y": 600, "Z": 0 } },
+      { "checkpointID": 3, "description": "Return to the guard captain", "isCompleted": false, "location": { "mapID": 1, "X": 100, "Y": 50, "Z": 0 } }
+    ]
+  },
+  {
+    "questID": 1,
+    "questName": "Cows' Counter Attack",
+    "questDescription": "Strange beasts have been harassing the farms around Town of Beginnings. Help clear the threat and secure the pastures.",
+    "objectives": ["Travel to the western pastures", "Defeat 8 Frenzy Boars", "Report back to Jinhiro"],
+    "rewards": { "EXP": 450, "items": ["Health Potion", "Meat"] },
+    "status": "Not Started",
+    "assignedTo": null,
+    "availableTo": ["Adventurer"],
+    "relatedNPCs": ["Jinhiro"],
+    "questFlags": { "isMainQuest": false, "isRepeatable": false },
+    "questCheckpoints": [
+      { "checkpointID": 1, "description": "Reach western pastures", "isCompleted": false, "location": { "mapID": 1, "X": 700, "Y": 300, "Z": 0 } },
+      { "checkpointID": 2, "description": "Eliminate Frenzy Boars", "isCompleted": false, "location": { "mapID": 1, "X": 720, "Y": 320, "Z": 0 } },
+      { "checkpointID": 3, "description": "Return to Jinhiro", "isCompleted": false, "location": { "mapID": 1, "X": 495, "Y": 365, "Z": 0 } }
+    ]
+  },
+  {
+    "questID": 2,
+    "questName": "Secret Medicine of the Forest",
+    "questDescription": "A rare herb deep in the forest can be used to craft a secret medicine. Gather the herb and bring it to Ryukiyo.",
+    "objectives": ["Travel to the Forest Edge", "Collect 3 Nepent Bulbs", "Return to Ryukiyo"],
+    "rewards": { "EXP": 600, "items": ["Large Nepent Bulb", "Health Potion"] },
+    "status": "Not Started",
+    "assignedTo": null,
+    "availableTo": ["Adventurer", "Herbalist"],
+    "relatedNPCs": ["Ryukiyo"],
+    "questFlags": { "isMainQuest": false, "isRepeatable": true },
+    "questCheckpoints": [
+      { "checkpointID": 1, "description": "Reach the Forest Edge", "isCompleted": false, "location": { "mapID": 1, "X": 820, "Y": 260, "Z": 0 } },
+      { "checkpointID": 2, "description": "Collect Nepent Bulbs", "isCompleted": false, "location": { "mapID": 1, "X": 860, "Y": 300, "Z": 0 } },
+      { "checkpointID": 3, "description": "Return to Ryukiyo", "isCompleted": false, "location": { "mapID": 1, "X": 510, "Y": 380, "Z": 0 } }
+    ]
+  }
+]

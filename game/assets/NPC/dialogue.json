@@ -1,0 +1,39 @@
+{
+    "Akihiko Kayaba": {
+        "checkpoints": {
+            "1": {
+                "greetings": ["Welcome to Aincrad."],
+                "general": ["The world is larger than you imagine."],
+                "farewells": ["Farewell, adventurer."],
+                "quests": { "start": {}, "in_progress": {}, "completed": {} },
+                "lore": ["Creator of this world."],
+                "shop": [],
+                "combat": [],
+                "misc": [],
+                "tutorials": [],
+                "events": []
+            }
+        }
+    },
+    "Merchant Bobby": {
+        "checkpoints": { "1": { "greetings": ["Looking for a blade?"], "shop": ["Iron Longsword", "Elucidator (rare)"] } }
+    },
+    "Merchant Yahiko": {
+        "checkpoints": { "1": { "greetings": ["Armor and potions here."], "shop": ["Health Potion", "Steel Plate Armor"] } }
+    },
+    "Merchant Kyou": {
+        "checkpoints": { "1": { "greetings": ["Need iron bars?"], "shop": ["Iron Bar"] } }
+    },
+    "Ryukiyo": {
+        "checkpoints": { "1": { "greetings": ["Show me your skills."], "quests": { "start": { "Secret Medicine of the Forest": [] } } } }
+    },
+    "Jinhiro": {
+        "checkpoints": { "1": { "greetings": ["Brave one, help the farms."], "quests": { "start": { "Cows' Counter Attack": [] } } } }
+    },
+    "Lynx": { "checkpoints": { "1": { "greetings": ["I have tasks for capable fighters."], "quests": {} } } },
+    "Argo the Rat": { "checkpoints": { "1": { "greetings": ["Information for a price."], "misc": ["Rumors, tips"] } } },
+    "Agil": { "checkpoints": { "1": { "greetings": ["Keep your friends close."], "shop": [] } } },
+    "Klein": { "checkpoints": { "1": { "greetings": ["Stick with your party."], "misc": [] } } },
+    "Sachi": { "checkpoints": { "1": { "greetings": ["Be careful out there."], "misc": [] } } },
+    "Diavel": { "checkpoints": { "1": { "greetings": ["Strong fighters welcome."], "misc": [] } } }
+}

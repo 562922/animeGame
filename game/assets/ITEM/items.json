@@ -1,0 +1,357 @@
+[
+  {
+    "itemID": 0,
+    "itemName": "Elucidator",
+    "itemType": "Weapon",
+    "itemSubtype": "Longsword",
+    "itemSlot": "Hand",
+    "itemRarity": "Unique",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 15,
+      "AGI": 10,
+      "ATKPOW": 23,
+      "CRT": 14,
+      "DEF": 6,
+      "DEX": 16,
+      "INT": 15,
+      "MIND": 14,
+      "MP": 20,
+      "STA": 14,
+      "CON": 8
+    },
+    "itemReqs": {
+      "level": 1,
+      "Sword Skills": [
+        "Swordsmanship",
+        "Sword Hadnling",
+        "Sword Master"
+      ]
+    },
+    "obtained": true
+  },
+  {
+    "itemID": 1,
+    "itemName": "Iron Longsword",
+    "itemType": "Weapon",
+    "itemSubtype": "Longsword",
+    "itemSlot": "Hand",
+    "itemRarity": "Common",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 3,
+      "DEX": 1,
+      "ATKPOW": 8
+    },
+    "itemReqs": {
+      "level": 1
+    }
+  },
+  {
+    "itemID": 2,
+    "itemName": "Fencer's Rapier",
+    "itemType": "Weapon",
+    "itemSubtype": "Rapier",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Piercing",
+    "itemStats": {
+      "DEX": 4,
+      "CRT": 5,
+      "ATKPOW": 6
+    },
+    "itemReqs": {
+      "level": 3
+    }
+  },
+  {
+    "itemID": 3,
+    "itemName": "Desert Scimitar",
+    "itemType": "Weapon",
+    "itemSubtype": "Scimitar",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "AGI": 3,
+      "DEX": 2,
+      "ATKPOW": 7
+    },
+    "itemReqs": {
+      "level": 4
+    }
+  },
+  {
+    "itemID": 4,
+    "itemName": "Knightbreaker Greatsword",
+    "itemType": "Weapon",
+    "itemSubtype": "Greatsword",
+    "itemSlot": "Hand",
+    "itemRarity": "Rare",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 6,
+      "STA": 2,
+      "ATKPOW": 14
+    },
+    "itemReqs": {
+      "level": 8
+    }
+  },
+  {
+    "itemID": 5,
+    "itemName": "Shadow Dagger",
+    "itemType": "Weapon",
+    "itemSubtype": "Dagger",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Piercing",
+    "itemStats": {
+      "DEX": 3,
+      "AGI": 3,
+      "CRT": 8
+    },
+    "itemReqs": {
+      "level": 2
+    }
+  },
+  {
+    "itemID": 6,
+    "itemName": "Dwarven Battleaxe",
+    "itemType": "Weapon",
+    "itemSubtype": "Battleaxe",
+    "itemSlot": "Hand",
+    "itemRarity": "Rare",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 5,
+      "CON": 2,
+      "ATKPOW": 12
+    },
+    "itemReqs": {
+      "level": 7
+    }
+  },
+  {
+    "itemID": 7,
+    "itemName": "Hunter's Hand Axe",
+    "itemType": "Weapon",
+    "itemSubtype": "Hand Axe",
+    "itemSlot": "Hand",
+    "itemRarity": "Common",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 2,
+      "DEX": 2,
+      "ATKPOW": 6
+    },
+    "itemReqs": {
+      "level": 1
+    }
+  },
+  {
+    "itemID": 8,
+    "itemName": "Executioner's Greataxe",
+    "itemType": "Weapon",
+    "itemSubtype": "Great Axe",
+    "itemSlot": "Hand",
+    "itemRarity": "Epic",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 8,
+      "ATKPOW": 18,
+      "CRT": 5
+    },
+    "itemReqs": {
+      "level": 12
+    }
+  },
+  {
+    "itemID": 9,
+    "itemName": "Cleric's Mace",
+    "itemType": "Weapon",
+    "itemSubtype": "Mace",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Blunt",
+    "itemStats": {
+      "STR": 3,
+      "MIND": 2,
+      "ATKPOW": 7
+    },
+    "itemReqs": {
+      "level": 3
+    }
+  },
+  {
+    "itemID": 10,
+    "itemName": "Iron Warhammer",
+    "itemType": "Weapon",
+    "itemSubtype": "Warhammer",
+    "itemSlot": "Hand",
+    "itemRarity": "Rare",
+    "DamageType": "Blunt",
+    "itemStats": {
+      "STR": 6,
+      "ATKPOW": 15
+    },
+    "itemReqs": {
+      "level": 9
+    }
+  },
+  {
+    "itemID": 11,
+    "itemName": "Royal Halberd",
+    "itemType": "Weapon",
+    "itemSubtype": "Halberd",
+    "itemSlot": "Hand",
+    "itemRarity": "Rare",
+    "DamageType": "Slashing",
+    "itemStats": {
+      "STR": 4,
+      "DEX": 2,
+      "ATKPOW": 11
+    },
+    "itemReqs": {
+      "level": 6
+    }
+  },
+  {
+    "itemID": 12,
+    "itemName": "Infantry Spear",
+    "itemType": "Weapon",
+    "itemSubtype": "Spear",
+    "itemSlot": "Hand",
+    "itemRarity": "Common",
+    "DamageType": "Piercing",
+    "itemStats": {
+      "DEX": 2,
+      "ATKPOW": 7
+    },
+    "itemReqs": {
+      "level": 1
+    }
+  },
+  {
+    "itemID": 13,
+    "itemName": "Steel Knuckle Dusters",
+    "itemType": "Weapon",
+    "itemSubtype": "Knuckle",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Blunt",
+    "itemStats": {
+      "DEX": 3,
+      "AGI": 2,
+      "ATKPOW": 6
+    },
+    "itemReqs": {
+      "level": 2
+    }
+  },
+  {
+    "itemID": 14,
+    "itemName": "Oak Longbow",
+    "itemType": "Weapon",
+    "itemSubtype": "Longbow",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Piercing",
+    "itemStats": {
+      "DEX": 4,
+      "ATKPOW": 9
+    },
+    "itemReqs": {
+      "level": 4
+    }
+  },
+  {
+    "itemID": 15,
+    "itemName": "Balanced Throwing Knife",
+    "itemType": "Weapon",
+    "itemSubtype": "Throwing Knife",
+    "itemSlot": "Hand",
+    "itemRarity": "Common",
+    "DamageType": "Piercing",
+    "itemStats": {
+      "DEX": 3,
+      "CRT": 4
+    },
+    "itemReqs": {
+      "level": 1
+    }
+  },
+  {
+    "itemID": 16,
+    "itemName": "Apprentice Staff",
+    "itemType": "Weapon",
+    "itemSubtype": "Staff",
+    "itemSlot": "Hand",
+    "itemRarity": "Uncommon",
+    "DamageType": "Arcane",
+    "itemStats": {
+      "INT": 4,
+      "MP": 30
+    },
+    "itemReqs": {
+      "level": 3
+    }
+  },
+  {
+    "itemID": 18,
+    "itemName": "Leather Vest",
+    "itemType": "Light Armor",
+    "itemSlot": "Chest",
+    "itemRarity": "Common",
+    "itemStats": {
+      "DEF": 5,
+      "AGI": 1
+    },
+    "itemReqs": {
+      "level": 1
+    }
+  },
+  {
+    "itemID": 19,
+    "itemName": "Steel Plate Armor",
+    "itemType": "Heavy Armor",
+    "itemSlot": "Chest",
+    "itemRarity": "Rare",
+    "itemStats": {
+      "DEF": 15,
+      "CON": 3,
+      "AGI": -2
+    },
+    "itemReqs": {
+      "level": 8
+    }
+  },
+  {
+    "itemID": 20,
+    "itemName": "Ring of Precision",
+    "itemType": "Accessory",
+    "itemSlot": "Ring",
+    "itemRarity": "Uncommon",
+    "itemStats": {
+      "DEX": 2,
+      "CRT": 5
+    }
+  },
+  {
+    "itemID": 21,
+    "itemName": "Health Potion",
+    "itemType": "Consumable",
+    "itemSubtype": "Potion",
+    "itemRarity": "Common",
+    "Effects": {
+      "HealHP": 100
+    }
+  },
+  {
+    "itemID": 23,
+    "itemName": "Ancient Gate Key",
+    "itemType": "QuestItem",
+    "itemSubtype": "Key",
+    "itemStats": {}
+  }
+]

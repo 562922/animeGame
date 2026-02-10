@@ -1,0 +1,92 @@
+[
+    {
+        "dungeonID": 0,
+        "rooms": [
+            {
+                "d_roomID": 0,
+                "type": "basic",
+                "shape": "rect",
+                "dimensions": {
+                    "H": 15,
+                    "W": 25,
+                    "D": 30
+                }
+            },
+            {
+                "d_roomID": 1,
+                "type": "basic",
+                "shape": "elip",
+                "dimensions": {
+                    "H": 15,
+                    "a": 3,
+                    "b": 1.5
+                }
+            },
+            {
+                "d_roomID": 2,
+                "type": "loot",
+                "shape": "elip",
+                "dimensions": {
+                    "H": 15,
+                    "a": 3,
+                    "b": 1.5
+                }
+            },
+            {
+                "d_roomID": 3,
+                "type": "trap",
+                "shape": "rect",
+                "dimensions": {
+                    "H": 30,
+                    "W": 15,
+                    "D": 15
+                }
+            }
+        ]
+    },
+    {
+        "dungeonID": 1,
+        "rooms": [
+            {
+                "d_roomID": 0,
+                "type": "basic",
+                "shape": "rect",
+                "dimensions": {
+                    "H": 15,
+                    "W": 25,
+                    "D": 30
+                }
+            },
+            {
+                "d_roomID": 1,
+                "type": "basic",
+                "shape": "elip",
+                "dimensions": {
+                    "H": 15,
+                    "a": 3,
+                    "b": 1.5
+                }
+            },
+            {
+                "d_roomID": 2,
+                "type": "loot",
+                "shape": "elip",
+                "dimensions": {
+                    "H": 15,
+                    "a": 3,
+                    "b": 1.5
+                }
+            },
+            {
+                "d_roomID": 3,
+                "type": "trap",
+                "shape": "rect",
+                "dimensions": {
+                    "H": 30,
+                    "W": 15,
+                    "D": 15
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "npcID": 0,
+        "npcName": "Akihiko Kayaba",
+        "npcAlias": "Heathcliff",
+        "npcType": ["Leader", "Quest Giver", "Boss"],
+        "stats": { "HP": 100, "STA": 10, "STR": 10, "DEX": 10, "CON": 10, "LUK": 10, "DEF": 10, "CRC": 10, "CRD": 10 },
+        "inventory": { "equipment": {}, "items": {} },
+        "swordSkills": {},
+        "quests": { "main": {}, "side": {}, "daily": {} },
+        "position": { "mapID": 1, "X": 500, "Y": 400, "Z": 0 }
+    },
+    {
+        "npcID": 1,
+        "npcName": "Merchant Bobby",
+        "npcAlias": "Bobby",
+        "npcType": ["Merchant", "Shop"],
+        "shopType": "Weapons",
+        "stats": { "HP": 50 },
+        "inventory": { "equipment": {}, "items": {"Iron Longsword": 3, "Elucidator": 0} },
+        "position": { "mapID": 1, "X": 520, "Y": 420, "Z": 0 }
+    },
+    {
+        "npcID": 2,
+        "npcName": "Merchant Yahiko",
+        "npcAlias": "Yahiko",
+        "npcType": ["Merchant", "Shop"],
+        "shopType": "Armor/Potions",
+        "stats": { "HP": 50 },
+        "inventory": { "equipment": {}, "items": {"Health Potion": 20, "Steel Plate Armor": 1} },
+        "position": { "mapID": 1, "X": 480, "Y": 420, "Z": 0 }
+    },
+    {
+        "npcID": 3,
+        "npcName": "Merchant Kyou",
+        "npcAlias": "Kyou",
+        "npcType": ["Merchant", "Blacksmith"],
+        "shopType": "Materials",
+        "stats": { "HP": 50 },
+        "inventory": { "equipment": {}, "items": {"Iron Bar": 10} },
+        "position": { "mapID": 1, "X": 540, "Y": 400, "Z": 0 }
+    },
+    {
+        "npcID": 4,
+        "npcName": "Ryukiyo",
+        "npcAlias": "Ryukiyo",
+        "npcType": ["Quest Giver"],
+        "stats": { "HP": 60 },
+        "position": { "mapID": 1, "X": 510, "Y": 380, "Z": 0 }
+    },
+    {
+        "npcID": 5,
+        "npcName": "Jinhiro",
+        "npcAlias": "Jinhiro",
+        "npcType": ["Quest Giver"],
+        "stats": { "HP": 60 },
+        "position": { "mapID": 1, "X": 495, "Y": 365, "Z": 0 }
+    },
+    {
+        "npcID": 6,
+        "npcName": "Lynx",
+        "npcAlias": "Lynx",
+        "npcType": ["Quest Giver"],
+        "stats": { "HP": 55 },
+        "position": { "mapID": 1, "X": 530, "Y": 365, "Z": 0 }
+    },
+    {
+        "npcID": 7,
+        "npcName": "Argo the Rat",
+        "npcAlias": "Argo",
+        "npcType": ["Information Broker", "Notable Figure"],
+        "stats": { "HP": 40 },
+        "position": { "mapID": 1, "X": 560, "Y": 380, "Z": 0 }
+    },
+    {
+        "npcID": 8,
+        "npcName": "Agil",
+        "npcAlias": "Agil",
+        "npcType": ["Notable Figure", "Merchant"],
+        "stats": { "HP": 120 },
+        "position": { "mapID": 1, "X": 600, "Y": 380, "Z": 0 }
+    },
+    {
+        "npcID": 9,
+        "npcName": "Klein",
+        "npcAlias": "Klein",
+        "npcType": ["Notable Figure"],
+        "stats": { "HP": 90 },
+        "position": { "mapID": 1, "X": 620, "Y": 380, "Z": 0 }
+    },
+    {
+        "npcID": 10,
+        "npcName": "Sachi",
+        "npcAlias": "Sachi",
+        "npcType": ["Notable Figure"],
+        "stats": { "HP": 70 },
+        "position": { "mapID": 1, "X": 640, "Y": 380, "Z": 0 }
+    },
+    {
+        "npcID": 11,
+        "npcName": "Diavel",
+        "npcAlias": "Diavel",
+        "npcType": ["Notable Figure"],
+        "stats": { "HP": 95 },
+        "position": { "mapID": 1, "X": 660, "Y": 380, "Z": 0 }
+    }
+]
